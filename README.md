@@ -5,9 +5,11 @@ Auto delivers bones :D Stand next to a spawner, press a key, walk away. The mod 
 Put  `termina-1.0.0.jar` in your mods folder. 
 
 **How to use**
+
 Look at a spawner within 3 blocks with clear line of sight, then press **I** to start and **O** to stop. The stop key works even with a chest or menu open. Rebind both under Options → Controls → Termina.
 
 **Commands**
+
 `/termina` shows your current settings.
 
 `/termina <ms>` sets the delay between every step (default 300).
