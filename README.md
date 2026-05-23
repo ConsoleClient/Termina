@@ -9,7 +9,9 @@ Look at a spawner within 3 blocks with clear line of sight, then press **I** to 
 
 **Commands**
 `/termina` shows your current settings.
+
 `/termina <ms>` sets the delay between every step (default 300).
+
 `/termina slot <n>` sets which slot gets right clicked in the /orders bones menu (default 0).
 
 Every step prints to chat as it runs, so if something breaks you can see exactly where.
